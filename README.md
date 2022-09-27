@@ -1,2 +1,2 @@
 # Capstone-Project
-A machine translation model that is design to translate German phrases to English.
+A machine translation model that is designed to translate German phrases to English.
